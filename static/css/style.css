@@ -1,0 +1,41 @@
+body {
+    background-color: #d4d4d6;
+}
+
+.container {
+    position: relative;
+}
+
+.table-bordered td,
+th,
+tr,
+table {
+    border: 1px solid black;
+    font-size: 15px;
+}
+
+.table {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-striped tbody tr:nth-of-type(even) {
+    background-color: #ffffff;
+}
+
+.action {
+    width: 15rem;
+}
+
+.btn_ {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 5rem;
+    height: 2.5rem;
+}
+
+.img {
+    width: 2rem;
+    height: 2rem;
+}

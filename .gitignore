@@ -1,0 +1,25 @@
+# Ambiente virtual
+
+env/
+
+# Pasta migrations
+
+migrations/
+
+# Pasta __pycache__
+
+__pycache__/
+
+# Pasta .vscode
+
+.vscode/
+
+# Arquivos Python
+
+__init__.py
+apps.py
+tests.py
+asgi.py
+settings.py
+wsgi.py
+manage.py
